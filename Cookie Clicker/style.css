@@ -1,0 +1,89 @@
+html { 
+    background-color: grey;
+}
+
+body {
+    text-align: left;
+    background: rgba(255, 255, 255, 0.514); 
+    width: 600px; 
+    padding: 50px 100px; 
+    margin: 25px auto; 
+    border-radius: 25px; 
+    font-family: 'Courier New', Courier, monospace; 
+    padding-bottom: 0px; 
+    height: 680px;
+} 
+
+#cookie-btn {
+    background-color: white; 
+} 
+
+.upgrade {
+    text-align: right;  
+}
+
+#upgrade-click {
+    position: relative; 
+    bottom: 268px; 
+    left: 200px; 
+} 
+
+.twoxc {
+    position: relative; 
+    bottom: 273px; 
+    left: 400px; 
+} 
+
+#upgrade-click2 {
+    position: relative; 
+    bottom: 412px; 
+    left: 546px; 
+    visibility: hidden;
+} 
+
+.fourxc {
+    position: relative; 
+    bottom: 414px; 
+    left: 400px; 
+    visibility: hidden;
+}  
+
+#Auto-Click { 
+    position: relative;
+    bottom: 400px; 
+    left: 536px; 
+    visibility: hidden;
+} 
+
+#Auto-Text {
+    position: relative; 
+    bottom: 400px; 
+    left: 365px; 
+    visibility: hidden;
+} 
+
+#upgrade-click3 { 
+    position: relative;
+    bottom: 519px; 
+    left: 537px; 
+    visibility: hidden; 
+} 
+
+#eightxc { 
+    position: relative;
+    bottom: 523px; 
+    left: 400px; 
+    visibility: hidden;
+} 
+
+#Chef {
+    position: relative; 
+    bottom: 623px; 
+    left: 536px
+} 
+
+#Chef-Text { 
+    position: relative; 
+    bottom: 631px; 
+    left: 340px;
+}
